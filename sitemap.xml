@@ -4,6 +4,8 @@
   <url>
     <loc>http://eugeneckim.github.io/articles/</loc>
   </url><url>
+    <loc>http://eugeneckim.github.io/articles/test/</loc>
+  </url><url>
     <loc>http://eugeneckim.github.io/categories/</loc>
   </url><url>
     <loc>http://eugeneckim.github.io/</loc>
@@ -11,7 +13,5 @@
     <loc>http://eugeneckim.github.io/tags/first/</loc>
   </url><url>
     <loc>http://eugeneckim.github.io/tags/</loc>
-  </url><url>
-    <loc>http://eugeneckim.github.io/articles/test/</loc>
   </url>
 </urlset>
