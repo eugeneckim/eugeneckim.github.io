@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Eugene&#39;s Github Pages Site</title>
+    <title>Eugene&#39;s Page</title>
     <link>http://eugeneckim.github.io/</link>
-    <description>Recent content on Eugene&#39;s Github Pages Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://eugeneckim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Eugene&#39;s Page</description>
+    <image>
+      <url>http://eugeneckim.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://eugeneckim.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://eugeneckim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Article</title>
+      <link>http://eugeneckim.github.io/articles/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://eugeneckim.github.io/articles/test/</guid>
+      <description>Test Description</description>
+    </item>
+    
   </channel>
 </rss>
