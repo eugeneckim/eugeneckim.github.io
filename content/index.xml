@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Articles on Eugene&#39;s Page</title>
-    <link>http://eugeneckim.github.io/articles/</link>
-    <description>Recent content in Articles on Eugene&#39;s Page</description>
+    <title>Contents on Eugene&#39;s Page</title>
+    <link>http://eugeneckim.github.io/content/</link>
+    <description>Recent content in Contents on Eugene&#39;s Page</description>
     <image>
       <url>http://eugeneckim.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://eugeneckim.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://eugeneckim.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="http://eugeneckim.github.io/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021-07-22</title>
-      <link>http://eugeneckim.github.io/articles/2021-07-22/</link>
+      <link>http://eugeneckim.github.io/content/posts/2021-07-22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://eugeneckim.github.io/articles/2021-07-22/</guid>
+      <guid>http://eugeneckim.github.io/content/posts/2021-07-22/</guid>
       <description>Randoms  Still reading War of Art. Ass kicker of a book  Thoughts/Ideas Read hard books. Philosophy  Spinoza has the bigget draw at this moment.  Resistance in the form of opaque geometric form.  Quora Link -&amp;gt; Article from quora as guide.     Aristotle  Finish Adler Book. Consult guide at the end which covers books to read.   Literature  Camus Dostoevsky    Health Weight  This remains the highest priority.</description>
-    </item>
-    
-    <item>
-      <title>Bare Article</title>
-      <link>http://eugeneckim.github.io/articles/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugeneckim.github.io/articles/test/</guid>
-      <description>Test Description</description>
     </item>
     
   </channel>
