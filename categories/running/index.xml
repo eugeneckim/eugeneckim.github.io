@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Eugene&#39;s Page</title>
-    <link>http://eugeneckim.github.io/</link>
-    <description>Recent content on Eugene&#39;s Page</description>
+    <title>running on Eugene&#39;s Page</title>
+    <link>http://eugeneckim.github.io/categories/running/</link>
+    <description>Recent content in running on Eugene&#39;s Page</description>
     <image>
       <url>http://eugeneckim.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://eugeneckim.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 31 Jul 2021 18:31:57 -0700</lastBuildDate><atom:link href="http://eugeneckim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 18:31:57 -0700</lastBuildDate><atom:link href="http://eugeneckim.github.io/categories/running/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>running_checklist</title>
       <link>http://eugeneckim.github.io/articles/20210731163050-running_checklist/</link>
@@ -17,16 +17,6 @@
       
       <guid>http://eugeneckim.github.io/articles/20210731163050-running_checklist/</guid>
       <description>Overview  This is supposed to be a checklist(s) to capture race checklist items.  Changelog  [2021-07-31 Sat] Initial check-in, testing also some more ox-hugo stuff This is geared more towards an upcoming endurance effort.    Physical [0/2]Anti-Chafe  Deserves its own section as chafing is always bad Squirrel&amp;rsquo;s nut butter. Good experience with that. 2Toms products, see also: feet section.  [0/2]Feet  Gotta have it&amp;rsquo;s own section Leukotape P (I&amp;rsquo;ve in the past liked this).</description>
-    </item>
-    
-    
-    <item>
-      <title>Bare Article</title>
-      <link>http://eugeneckim.github.io/articles/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://eugeneckim.github.io/articles/test/</guid>
-      <description>Test Description</description>
     </item>
     
   </channel>
